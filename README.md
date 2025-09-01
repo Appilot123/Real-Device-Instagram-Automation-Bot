@@ -81,7 +81,7 @@ This bot drives **real devices** via ADB/Appium to execute Instagram actions wit
 ---
 
 ## Workflow image
-![Workflow](./assets/workflow.png)
+<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/7c5dd5bc-d3c2-48bb-a7b1-95804cae4ee8" />
 
 ---
 
