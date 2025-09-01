@@ -1,135 +1,144 @@
-<h1 align="center">Real Device Instagram Automation Bot</h1>
+# Real-Device Instagram Automation Bot
 
-A high-performance automation bot for Instagram, built for real Android devices. This advanced bot simulates natural user behavior—automatically messaging, following, commenting, and viewing stories across multiple cloned accounts. Designed for scale, it integrates with a centralized dashboard for campaign control, targeting, and performance analytics.
+> Control real Android/iOS devices for safe, human-like Instagram growth and operations. Free tier for core actions; Pro adds advanced automations and custom features.
 
-We’re the team behind Appilot. We are a software development agency who helped hundreds of businesses automate their social media with custom bots and automations, smart behavior simulations, and plug-and-play solutions. Our pricing is flexible; we offer competitive flat rates as well as hourly rates for fixed projects.
+---
 
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/f043bc58-3e3a-4a64-bc78-d6283644921c"
-    alt="BOTS DEMO"
-    width="450px"
-  />
-</p>
+## Repository name
+**Real-Device-Instagram-Automation-Bot**
 
-<div align="center">
-  <a href="https://youtu.be/EYBHzb7DgDw?si=65BWPGNMlZoUudSl">
-  <img
-    alt="Full Video Demo Available on Youtube"
-    width="25px"
-    src="https://github.com/user-attachments/assets/c685ef52-2bdd-464c-bd60-cc6e34e8e867"
-  />
-  <code>Full Video Demo Available on Youtube</code>
-</a>
-</div>
+---
 
-### 🔁 Full-Spectrum Instagram Automation
-Automates DMs, follows, comments, likes, and story views with human-like precision for realistic, undetectable engagement.
+## Introduction
+A production-grade starter for **real device** Instagram automation. Queue tasks, pace like a human, log everything, and scale from one phone to a farm.
 
-### 📱 Runs on Real Android Devices & Emulators
-Supports both real devices and emulators, orchestrated via cloud infrastructure for massive scaling.
+---
 
-### 🧠 Engineered for Realism, Scale & Stealth
-Implements randomized touch gestures, adaptive delays, and live session monitoring to avoid detection.
+## Hero image
+![Hero](./assets/hero.png)
 
-<div align="center">
-  <img
-    src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
-    alt="select device"
-    width="600px"
-  />
-</div>
+---
 
+## Table of content
+- [Overview](#overview)
+- [Features](#features)
+- [Try it for free](#try-it-for-free)
+- [Workflow](#workflow)
+- [Workflow image](#workflow-image)
+- [Key Stats](#key-stats)
+- [FAQ](#faq)
+- [Contact us](#contact-us)
+- [License](#license)
+- [Footer image](#footer-image)
 
-<div align="center">
-  <a href="https://appilot.app/">
-    <img
-      alt="Website"
-      width="25px"
-      src="https://github.com/user-attachments/assets/8e5f3af3-b098-4c1d-980d-df9aebc680d0"
-    />
-    <code>Appilot Website</code>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/3CZ5muJdF2">
-    <img
-      alt="Join Our Server"
-      width="30px"
-      src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-Bot/blob/main/discord-icon-svgrepo-com.svg"
-    />
-    <code>Join Our Server</code>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/devpilot1">
-    <img
-      alt="Contact us"
-      width="30px"
-      src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg"
-    />
-    <code>Contact Us</code>
-  </a>
-</div>
+---
 
-<div align="center">
-<strong> Have a Custom Project in Mind please Contact?</strong>
+## Overview
+This bot drives **real devices** via ADB/Appium to execute Instagram actions with rate limits, random jitter, and behavior rules. It supports campaign queues, error handling with retries, and structured logs so you can review every action and safely re-run failed steps.
 
-<div align="center">
-  <a href="mailto:support@appilot.app">
-  <img
-    alt="Email"
-    width="30px"
-    src="https://github.com/user-attachments/assets/91c8d428-32b7-4be0-91fa-2e42c902b5b8"
-  />
-  <code>support@appilot.app</code>
-</a>
-  &nbsp;&nbsp;
-  <a href="https://cal.com/app-pilot-m8i8oo/30min">
-  <img
-    alt="Book a 30-minute Call"
-    width="30px"
-    src="https://github.com/user-attachments/assets/cd3e5c7b-3e4e-4bb3-b242-bcc20ee78f13"
-  />
-  <code>Book a 30-minute Call</code>
-</a>
-<span>
+---
 
-<div align="left">
+## Features
 
-## ⚙️Features
+## Features
 
-| Feature                           | Description                                                                 |
-|-----------------------------------|-----------------------------------------------------------------------------|
-| **Real Android Device Execution**       | Operates directly on physical Android phones or emulators, enabling high-fidelity app automation. |
-| **Multi-Account Management**    | Manages multiple cloned Instagram accounts per device with isolation and session rotation. |
-| **Automated Messaging & Following**    | Automates sending DMs, following users, and interacting with profiles using realistic timing. |
-| **Advanced Targeting Filters**   | Targets users based on hashtags, bio content, follower count, language, and geographic region. |
-| **Content Interaction & Engagement**      | Automates likes, comments, story views, reel watches, and follows to simulate natural behavior. |
-| **Live Session Mirroring**    | Provides real-time visual access to sessions for debugging, analytics, and client proof. |
-| **Proxy/SIM IP Rotation**           | Dynamically changes IP addresses via mobile proxies or physical SIM card swaps. |
-| **Error Handling & Recovery**              | Includes retry logic, logging, notifications, and fallback routines to ensure uptime. |
-| **Campaign Scheduling & Reporting**     | Run automated campaigns with scheduling options and detailed reporting on actions and engagement. |
-| **Cloud Dashboard Integration**         | Web-based interface for managing devices, tasks, and account activity across all operations. |
-| **Account Warmup Logic**         | Gradually increases session activity to avoid suspicion and mimic organic user growth. |
-| **Anti-Detection Behavior**       | Uses human-like gestures, scrolling, delays, and randomization to avoid detection by Instagram. |
-| **Full Content Automation**      | Posts content, schedules uploads, and supports media handling for multiple accounts. |
-| **Multi-Device Scaling**       | Operate on 10, 50, or 100+ Android devices simultaneously via cloud orchestration. |
-| **Real-Time Metrics & Alerts**      | Track real-time performance and receive alerts on issues, limits, or account flags. |
-| **Offline Task Queuing (Coming Soon)**  | Queue tasks while devices are offline; they will auto-execute when connectivity resumes. |
-| **Custom Engagement Rules (Planned)**      | Define rules for interactions based on target type (e.g., niche, influencer, competitor). |
-| **Hashtag & Profile Scraping**      | Gathers relevant user profiles from hashtags, posts, and comments for intelligent targeting. |
+| # | Feature | Description |
+|---|---|---|
+| 1 | Follow | Follow targets from lists/queries with smart pacing and random jitter. |
+| 2 | Unfollow | Unfollow by lists, FIFO/LIFO, or “non-followers only.” |
+| 3 | Share reels | Share any reel to DMs or to your story queue. |
+| 4 | Share posts | Share feed posts to DMs or story queue. |
+| 5 | Likes | Like posts/reels by hashtag, explore, or lists with daily caps. |
+| 6 | Comments | Rotating templates + spintax with per-account cooldowns. |
+| 7 | Profile updates | Update bio, name, link, avatar; rotate presets on schedule. |
+| 8 | Post reels & images | Upload media from local/URL, caption templates, first-comment. |
+| 9 | Story viewing | Warm up accounts by viewing stories with randomized dwell/taps. |
+| 10 | Posting story | Post image/video stories, stickers, link stickers (if eligible). |
+| 11 | Mass DMs | Personalized DM campaigns with suppression lists and opt-outs. |
+| 12 | Auto replies | Rule-based inbox replies by keywords, with cooldown windows. |
+| 13 | Mass reporting & blocking | Report/block lists (abuse mitigation/testing workflows). |
+| 14 | Scrolling | Human-like scroll/idle/tap patterns to reduce automation traces. |
+| 15 | Scheduler | Cron-style start/stop windows per device/campaign. |
+| 16 | Device farm manager | Pooling, health checks, failover, per-device fingerprints. |
+| 17 | Proxy/SIM rotation | Per-device mobile proxies or SIM data switching (where available). |
+| 18 | Analytics & logs | JSON logs, screenshots on error, run summaries and replays. |
 
 
-### 📊 Key Stats
-- Executes **millions of actions** monthly
-- Operates with **<1% detection rate**
-- Manages **hundreds of accounts** simultaneously
+> **Free = core actions** (Follow/Unfollow/Share Reels/Share Posts) so people can test stability and pacing. **Pro** unlocks everything else + custom requests.
 
+---
 
-### 🧠 Built by Appilot
-This bot is developed and maintained by the team behind [Appilot](https://www.appilot.com) — a powerful automation platform built for real mobile devices (Android & iOS) and emulators.
-Appilot powers automation for over 70,000 devices, enabling safe, scalable control over Instagram, Reddit, TikTok, and more — all without ADB or wires. Our web-based dashboard lets you automate your devices from anywhere, anytime.
+## Try it for free
+![Try it free](./assets/try-free.png)
 
-We are a professional automation team offering custom mobile bot development for Instagram and other platforms, using real Android/iOS devices and emulators, just real results.
+- **Free plan**: Follow, Unfollow, Share Reels, Share Posts  
+- **Pro plan**: All features + priority support + custom tasks (contact us)
 
+---
 
+## Workflow
 
+1) **Connect devices** (ADB/Appium) → verify health, proxy/SIM, storage.  
+2) **Load campaign** (targets, templates, limits, schedules).  
+3) **Humanizer** applies dwell/scroll/jitter rules per action.  
+4) **Executor** runs actions with retries + backoff; screenshots on error.  
+5) **Logger** writes per-step JSON, aggregates run report.  
+6) **Review** results; resume failed steps idempotently.
+
+---
+
+## Workflow image
+![Workflow](./assets/workflow.png)
+
+---
+
+## Key Stats
+- **Real devices**: Android (USB/Wi-Fi ADB) & iOS (via Appium)  
+- **Pacing**: Rate-limit + random jitter; per-action caps  
+- **Scale**: Designed for device farms (dozens+) with queues  
+- **Reliability**: Retries + exponential backoff + crash recovery  
+- **Observability**: JSON logs, screenshots on error, run summaries  
+- **Extensible**: Actions are modular; easy to add custom tasks
+
+---
+
+## FAQ
+
+**Is this safe for my accounts?**  
+No automation is “risk-free.” Use conservative limits, unique device fingerprints, quality proxies/SIMs, and warm accounts first.
+
+**Does the free version include DMs or posting?**  
+No. Free covers Follow, Unfollow, Share Reels, Share Posts. Pro unlocks DMs, posting, comments, stories, and more.
+
+**Can it run on emulators?**  
+Primary focus is **real devices**. Emulator support is possible but riskier. We recommend real hardware.
+
+**Does it support multiple accounts/devices?**  
+Yes. Add devices to the pool; assign campaigns per device with schedules.
+
+**How are limits enforced?**  
+Global and per-action caps, token-bucket limiter, random jitter, cooldowns, and night-mode windows.
+
+**Can you add a custom feature for me?**  
+Yes—Pro subscribers can request custom tasks/actions, dashboards, or integrations.
+
+**Compliance & responsibility**  
+You are responsible for adhering to Instagram’s Terms and applicable laws. Use only with accounts you own/have permission to manage.
+
+---
+
+## Contact us
+- Telegram: **@devpilot1**  
+- Discord: **Appilot** (server)  
+- GitHub: **Appilot123**  
+- Website: **bitbash.dev**
+
+---
+
+## License
+MIT — see [LICENSE](./LICENSE)
+
+---
+
+## Footer image
+![Footer](./assets/footer.png)
