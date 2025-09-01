@@ -121,10 +121,10 @@ A: You are responsible for adhering to Instagram’s Terms and applicable laws. 
 ---
 
 ## Contact us
-- Telegram: **@devpilot1**  
-- Discord: **Appilot** (server)  
-- GitHub: **Appilot123**  
-- Website: **bitbash.dev**
+- **Telegram** → [@devpilot1](https://t.me/devpilot1)  
+- **Discord Server** → [Appilot](https://discord.gg/vBu9huKBvy)  
+- **GitHub** → [Appilot123](https://github.com/Appilot123)
+- **Website**  → [bitbash](bitbash.dev) 
 
 ---
 
