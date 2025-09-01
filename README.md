@@ -8,7 +8,7 @@
 A production-grade starter for **real device** Instagram automation. Queue tasks, pace like a human, log everything, and scale from one phone to a farm.
 
 ---
-![Hero](./assets/hero.png)
+<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/63867c7a-c5a6-4bfc-98a1-336f55950fab" />
 
 ---
 
