@@ -123,10 +123,6 @@ A: You are responsible for adhering to Instagram’s Terms and applicable laws. 
 ## Contact us
 <p align="center">
 
-  <a href="appilot.app">
-    <img alt="Website contact" src="https://img.shields.io/badge/Discord-Appilot-5865F2?logo=discord&logoColor=white&style=for-the-badge">
-  </a>
-
   <a href="https://discord.gg/zX7frTbx">
     <img alt="Discord contact" src="https://img.shields.io/badge/Discord-Appilot-5865F2?logo=discord&logoColor=white&style=for-the-badge">
   </a>
