@@ -62,7 +62,7 @@ This bot drives **real devices** via ADB/Appium to execute Instagram actions wit
 ---
 
 ## Try it for free
-<img width="1536" height="300" alt="Image" src="https://github.com/user-attachments/assets/16157597-4d52-4ed1-be47-87e4f062142f" />
+<img width="1536" height="350" alt="Image" src="https://github.com/user-attachments/assets/16157597-4d52-4ed1-be47-87e4f062142f" />
 
 - **Free plan**: Follow, Unfollow, Share Reels, Share Posts  
 - **Pro plan**: All features + priority support + custom tasks (contact us)
