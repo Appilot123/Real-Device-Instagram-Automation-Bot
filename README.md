@@ -4,17 +4,10 @@
 
 ---
 
-## Repository name
-**Real-Device-Instagram-Automation-Bot**
-
----
-
 ## Introduction
 A production-grade starter for **real device** Instagram automation. Queue tasks, pace like a human, log everything, and scale from one phone to a farm.
 
 ---
-
-## Hero image
 ![Hero](./assets/hero.png)
 
 ---
@@ -69,7 +62,7 @@ This bot drives **real devices** via ADB/Appium to execute Instagram actions wit
 ---
 
 ## Try it for free
-![Try it free](./assets/try-free.png)
+<img width="1536" height="200" alt="Image" src="https://github.com/user-attachments/assets/16157597-4d52-4ed1-be47-87e4f062142f" />
 
 - **Free plan**: Follow, Unfollow, Share Reels, Share Posts  
 - **Pro plan**: All features + priority support + custom tasks (contact us)
@@ -104,26 +97,26 @@ This bot drives **real devices** via ADB/Appium to execute Instagram actions wit
 
 ## FAQ
 
-**Is this safe for my accounts?**  
-No automation is “risk-free.” Use conservative limits, unique device fingerprints, quality proxies/SIMs, and warm accounts first.
+Q: **Is this safe for my accounts?**  
+A: No automation is “risk-free.” Use conservative limits, unique device fingerprints, quality proxies/SIMs, and warm accounts first.
 
-**Does the free version include DMs or posting?**  
-No. Free covers Follow, Unfollow, Share Reels, Share Posts. Pro unlocks DMs, posting, comments, stories, and more.
+Q: **Does the free version include DMs or posting?**  
+A: No. Free covers Follow, Unfollow, Share Reels, Share Posts. Pro unlocks DMs, posting, comments, stories, and more.
 
-**Can it run on emulators?**  
-Primary focus is **real devices**. Emulator support is possible but riskier. We recommend real hardware.
+Q: **Can it run on emulators?**  
+A: Primary focus is **real devices**. Emulator support is possible but riskier. We recommend real hardware.
 
-**Does it support multiple accounts/devices?**  
-Yes. Add devices to the pool; assign campaigns per device with schedules.
+Q: **Does it support multiple accounts/devices?**  
+A: Yes. Add devices to the pool; assign campaigns per device with schedules.
 
-**How are limits enforced?**  
-Global and per-action caps, token-bucket limiter, random jitter, cooldowns, and night-mode windows.
+Q: **How are limits enforced?**  
+A: Global and per-action caps, token-bucket limiter, random jitter, cooldowns, and night-mode windows.
 
-**Can you add a custom feature for me?**  
-Yes—Pro subscribers can request custom tasks/actions, dashboards, or integrations.
+Q: **Can you add a custom feature for me?**  
+A: Yes—Pro subscribers can request custom tasks/actions, dashboards, or integrations.
 
-**Compliance & responsibility**  
-You are responsible for adhering to Instagram’s Terms and applicable laws. Use only with accounts you own/have permission to manage.
+Q: **Compliance & responsibility**  
+A: You are responsible for adhering to Instagram’s Terms and applicable laws. Use only with accounts you own/have permission to manage.
 
 ---
 
@@ -140,5 +133,4 @@ MIT — see [LICENSE](./LICENSE)
 
 ---
 
-## Footer image
-![Footer](./assets/footer.png)
+<img width="1536" height="300" alt="Image" src="https://github.com/user-attachments/assets/b440b2d8-ed98-46ee-b09c-201d46416ea7" />
