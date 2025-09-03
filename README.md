@@ -138,4 +138,4 @@ MIT — see [LICENSE](./LICENSE)
 
 ---
 
-<img width="1536" height="300" alt="Image" src="https://github.com/user-attachments/assets/770f4e0e-934f-4bba-8e18-e295f1f3af21" />
+<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/770f4e0e-934f-4bba-8e18-e295f1f3af21" />
