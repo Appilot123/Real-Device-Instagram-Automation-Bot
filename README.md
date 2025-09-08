@@ -97,12 +97,6 @@ This bot drives **real devices** via ADB/Appium to execute Instagram actions wit
 
 ## FAQ
 
-Q: **Is this safe for my accounts?**  
-A: No automation is “risk-free.” Use conservative limits, unique device fingerprints, quality proxies/SIMs, and warm accounts first.
-
-Q: **Does the free version include DMs or posting?**  
-A: No. Free covers Follow, Unfollow, Share Reels, Share Posts. Pro unlocks DMs, posting, comments, stories, and more.
-
 Q: **Can it run on emulators?**  
 A: Primary focus is **real devices**. Emulator support is possible but riskier. We recommend real hardware.
 
